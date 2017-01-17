@@ -1,0 +1,19 @@
+#app-container {
+  font-family: Georgia;
+  background-color: #fdf5e6;
+  line-height: 1.25;
+}
+
+.header {
+text-decoration: underline;
+}
+
+.monotype {
+  font-family: Geneva;
+  background-color: #000;
+  color: #fff;
+}
+
+.spans {
+    color: #73a1cc;
+}

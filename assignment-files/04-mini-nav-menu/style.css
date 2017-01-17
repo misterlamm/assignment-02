@@ -1,0 +1,68 @@
+
+
+#app-container {
+  font-family: Futura;
+}
+
+#wrapper {
+  text-align: center;
+  margin-top: 15px;
+}
+
+.header {
+  border-top: 10px solid black;
+  border-bottom: 10px solid black;
+  text-align: center;
+  border-width: thin;
+}
+
+.essays {
+display:inline-block;
+background-color: rgb(205,92,92);
+background-size: auto;
+color: white;
+}
+
+.humor {
+  display:inline-block;
+  background-color: rgb(205,92,92);
+  background-size: auto;
+  color: white;
+}
+
+.profiles {
+  display:inline-block;
+  background-color: rgb(205,92,92);
+  color: white;
+}
+
+.culture {
+  display:inline-block;
+  background-size: auto;
+  background-color: rgb(205,92,92);
+  color: white;
+}
+
+.galleries {
+  display:inline-block;
+  background-color: rgb(205,92,92);
+  background-size: auto;
+  color: white;
+}
+
+.about {
+  display:inline-block;
+  background-color: rgb(205,92,92);
+  background-size: auto;
+  color: white;
+}
+
+.input-box {
+  display: inline-block;
+  padding: 10px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: solid 2px #c9c9c9;
+  transition: border 0.3s;
+}

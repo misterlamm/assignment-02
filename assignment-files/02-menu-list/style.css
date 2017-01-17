@@ -1,0 +1,35 @@
+#app-container {
+  font-family: Avenir;
+}
+
+.home {
+  color: #66CC99;
+  padding: 7px;
+  border: 1px solid grey;
+}
+
+.contact {
+  padding: 7px;
+  border: 1px solid grey;
+}
+
+.about
+{
+  padding: 7px;
+  border: 1px solid grey;
+}
+
+.FAQ {
+  padding: 7px;
+  border: 1px solid grey;
+}
+
+.PWU {
+  padding: 7px;
+  border: 1px solid grey;
+}
+
+.current {
+  padding: 7px;
+  border: 1px solid grey;
+}
